@@ -1,3 +1,3 @@
-### Hey, I'm Cayce House! 👋
+### Hi There, I'm Cayce! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caycehouse)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caycehouse)
